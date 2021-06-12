@@ -29,7 +29,7 @@ end
 
 # エラー2
 # ActionController::ParameterMissing: param is missing or the value is empty: items
-# 場所：items_controller.rb ストロングパラメータ修正
+# 場所：items_controller.rb ストロングパラメータを修正
 # .require(:item)に変更
 
 # エラー3
